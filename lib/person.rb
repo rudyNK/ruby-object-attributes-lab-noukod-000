@@ -17,18 +17,6 @@ def Person
   end
 Beyonce = Person.new
 Beyonce.name = "Beyonce"
-
-    
+  
   end
-
-
-
-
-
-
-
-
-
-
-
 end
