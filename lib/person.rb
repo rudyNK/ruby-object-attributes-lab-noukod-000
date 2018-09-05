@@ -1,7 +1,6 @@
 def Person
-
   def name=(person_name)
-    @namev= person_name
+    @name= person_name
   end
 
   def name
