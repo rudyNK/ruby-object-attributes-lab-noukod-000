@@ -19,4 +19,3 @@ beyonce = Person.new
 beyonce.name = "beyonce"
 
   end
-end
