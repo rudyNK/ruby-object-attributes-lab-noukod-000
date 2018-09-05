@@ -10,4 +10,4 @@ end
 
 
 end
-fido = dog.new
+fido = Dog.new
