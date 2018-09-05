@@ -15,5 +15,6 @@ def Person
     @job
   end
 end
+
 Beyonce = Person.new
 Beyonce.name = "Beyonce"
